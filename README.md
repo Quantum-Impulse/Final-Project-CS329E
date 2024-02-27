@@ -10,7 +10,7 @@ A brief description of your project.
 - [Data Analysis](#data-analysis)
 - [Machine Learning Model](#machine-learning-model)
 - [Results](#results)
-- [Contributing](#contributing)
+- [Resources](#resources)
 - [License](#license)
 
 ## Introduction
@@ -37,9 +37,9 @@ Explain the approach used to build the machine learning model for predicting win
 
 Present the results of your analysis and the performance of the machine learning model. Include any visualizations or metrics that demonstrate the effectiveness of your model.
 
-## Contributing
+## Resources
 
-Explain how others can contribute to your project. Provide guidelines for submitting bug reports, feature requests, or pull requests.
+* [NBA Players Dataset](https://www.kaggle.com/datasets/justinas/nba-players-data?resource=download)
 
 ## License
 
