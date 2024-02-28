@@ -39,7 +39,10 @@ Present the results of your analysis and the performance of the machine learning
 
 ## Resources
 
-* [NBA Players Dataset](https://www.kaggle.com/datasets/justinas/nba-players-data?resource=download)
+* [NBA Players Dataset from 1996 to 2022 season](https://www.kaggle.com/datasets/justinas/nba-players-data?resource=download)
+* [NBA Database](https://www.kaggle.com/datasets/wyattowalsh/basketball/data)
+    * play_by_play.csv - was removed due to file size limit on github
+* [NBA Players stats since 1950](https://www.kaggle.com/datasets/drgilermo/nba-players-stats/data)
 
 ## License
 
