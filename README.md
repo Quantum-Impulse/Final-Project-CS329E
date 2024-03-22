@@ -31,8 +31,7 @@ Describe the process of analyzing the NBA datasets. Explain the steps taken to c
 
 ## Machine Learning Model
 
-Explain the approach used to build the machine learning model for predicting wins. Provide details on the algorithms, techniques, and features used.
-
+* [Win-Loss Winning Model](https://medium.com/@theresearchlab/create-an-nba-win-loss-model-w-68-precision-d1c6a21f0ded)
 ## Results
 
 Present the results of your analysis and the performance of the machine learning model. Include any visualizations or metrics that demonstrate the effectiveness of your model.
